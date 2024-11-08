@@ -34,7 +34,7 @@ section a {
 
 img {
   height: 300px; /* Set a specific height */
-  width: 25%; /* Maintain aspect ratio */
+  width: 100%; /* Maintain aspect ratio */
   max-width: 100%; /* Ensure the image does not exceed the container's width */
 }
 
